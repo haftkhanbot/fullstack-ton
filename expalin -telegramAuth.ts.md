@@ -312,3 +312,5 @@ The hash validation is the core of security in this process. It ensures that:
 *   This is the standard way to securely work with Telegram Web App data.
 
 Let me know if you have more questions about any specific parts of the code.
+original file here 
+https://github.com/nikandr-surkov/Make-TON-Telegram-Mini-App-2/blob/master/utils/telegramAuth.ts
